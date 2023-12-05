@@ -1,0 +1,14 @@
+.country-card {
+  width: 300px;
+  background-color: #1f1f2f;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+.image {
+  width: 100%;
+}
+.details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

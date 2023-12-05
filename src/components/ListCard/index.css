@@ -1,0 +1,19 @@
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #1f1f2f;
+  border: 1px solid #cbd5e1;
+  padding: 0px 30px;
+  border-radius: 8px;
+}
+.button {
+  background-color: #3b82f6;
+  height: 30px;
+  width: 80px;
+  border: none;
+  outline: none;
+  border-radius: 8px;
+  color: #ffffff;
+  cursor: pointer;
+}
